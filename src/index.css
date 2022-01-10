@@ -10,6 +10,7 @@ h2 {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  border: 1px solid black; /* I added this, idk why some style seems to be missing -cp  */
 }
 
 .list-group {
